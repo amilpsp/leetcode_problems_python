@@ -1,4 +1,5 @@
 from typing import List
+#LINK TO PROBLEM -----> https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 
 
 def getLastMoment(n: int, left: List[int], right: List[int]) -> int:

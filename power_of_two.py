@@ -1,4 +1,5 @@
 from math import log10
+#LINK TO PROBLEM -----> https://leetcode.com/problems/power-of-two/
 
 
 def isPowerOfTwo(n: int) -> bool:

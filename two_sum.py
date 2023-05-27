@@ -1,4 +1,5 @@
 from typing import List
+# LINK TO PROBLEM ----->  https://leetcode.com/problems/two-sum/
 
 
 def two_sum(nums: List[int], target: int) -> List[int]:

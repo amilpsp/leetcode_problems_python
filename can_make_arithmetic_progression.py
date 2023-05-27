@@ -1,4 +1,5 @@
 from typing import List
+#LINK TO PROBLEM -----> https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 
 
 def canMakeArithmeticProgression(arr: List[int]) -> bool:

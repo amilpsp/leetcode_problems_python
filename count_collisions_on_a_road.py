@@ -1,3 +1,6 @@
+#LINK TO PROBLEM -----> https://leetcode.com/problems/count-collisions-on-a-road/
+
+
 def solution_to_learn_from(directions: str) -> int:
     return sum(d != 'S' for d in directions.lstrip('L').rstrip('R'))
 
